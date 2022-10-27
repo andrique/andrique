@@ -1,8 +1,8 @@
 ### Olá! Bem-vindo(a) ao meu perfil 👺
 
-- 👽 Em fase de transição de carreira para a área Tech.
-- 📚 Sou formada em Psicologia e minha carreira até o momento foi desenvolvida no setor de Recursos Humanos.
-- ✍️ Atualmente estou estudando com foco em QA e programação em Java, porém, me arriscando em demais tecnologias com o objetivo de ampliar meus conhecimentos da área.
+- 👽 Transição de carreira para a área Tech.
+- 📚 Formada em Psicologia, minha carreira até o momento foi desenvolvida na área de Recursos Humanos.
+- ✍️ Atualmente estou estudando com foco em QA e programação em Java, porém, me arriscando em demais tecnologias com o objetivo de ampliar meus conhecimentos.
 - 🕐 Meus principais passatempos envolvem: Animes|Séries|Mangás|Jogos|
 
 
