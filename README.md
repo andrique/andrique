@@ -2,7 +2,7 @@
 
 - 👽 Transição de carreira para a área Tech.
 - 📚 Formada em Psicologia, minha carreira até o momento foi desenvolvida na área de Recursos Humanos.
-- ✍️ Atualmente estou estudando com foco em QA e programação em Java, porém, me arriscando em demais tecnologias com o objetivo de ampliar meus conhecimentos.
+- ✍️ Atualmente atuo como Analista de Qualidade de Software Junior e meus estudos estão voltado esta atuação, envolvendo tecnologias como Cypress, JavaScript, SQL, Postman, dentre outras.
 - 🕐 Meus principais passatempos envolvem: Animes|Séries|Mangás|Jogos|
 
 
