@@ -1,8 +1,8 @@
 ### Olá! Bem-vindo(a) ao meu perfil 👺
 
-- 👽 Transição de carreira para a área Tech.
-- 📚 Formada em Psicologia, minha carreira até o momento foi desenvolvida na área de Recursos Humanos.
-- ✍️ Atualmente atuo como Analista de Qualidade de Software Junior e meus estudos estão voltado esta atuação, envolvendo tecnologias como Cypress, JavaScript, SQL, Postman, dentre outras.
+- 👽 Transição de carreira Tech.
+- 📚 Formada em Psicologia, estudando Análise e Desenvolvimento de Sistemas.
+- ✍️ Atualmente atuo como Analista de Qualidade de Software Junior e meus estudos estão voltados para esta área, envolvendo tecnologias como Cypress, JavaScript, SQL, Postman, dentre outras.
 - 🕐 Meus principais passatempos envolvem: Animes|Séries|Mangás|Jogos|
 
 
